@@ -13,6 +13,8 @@ import image4 from '@/assets/ticker-004.jpg';
 const galleryEl = ref(null);
 const gallerySection = ref(null);
 
+// Example
+
 // On Component Mount
 onMounted(() => {
     const gallery = gsap.to(galleryEl.value, {
