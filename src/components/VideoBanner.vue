@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import { ref, onMounted } from 'vue';
 import { ScrollTrigger } from 'gsap/all';
 
-import bannerImage from '@/assets/images/C0336_0005.jpg';
+import bannerImage from '@/assets/C0336_0005.jpg';
 
 // Refs
 const heroImageContainer = ref(null);

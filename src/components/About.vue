@@ -7,8 +7,8 @@ import { computed, onMounted, onUnmounted, ref } from 'vue';
 import Button from '@/components/Button.vue';
 
 // Images
-import image1 from '@/assets/images/karen-mitchell-the-elan-studio-14.jpg';
-import image2 from '@/assets/images/JulieKayStudio25.jpg';
+import image1 from '@/assets/karen-mitchell-the-elan-studio-14.jpg';
+import image2 from '@/assets/JulieKayStudio25.jpg';
 
 // Ref's
 const words = computed(() => {

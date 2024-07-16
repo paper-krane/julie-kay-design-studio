@@ -7,7 +7,7 @@ import { ScrollTrigger } from 'gsap/all';
 import Button from '@/components/Button.vue';
 
 // Image 
-import heroImage from '@/assets/images/_b_C0297_0005.jpg';
+import heroImage from '@/assets/_b_C0297_0005.jpg';
 
 // Refs
 const heroImageContainer = ref(null);

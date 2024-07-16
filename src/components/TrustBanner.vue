@@ -3,11 +3,11 @@ import gsap from 'gsap';
 import { ref, onMounted, onUnmounted } from 'vue';
 
 // Images
-import logo1 from '@/assets/images/logo_001.webp';
-import logo2 from '@/assets/images/logo_002.webp';
-import logo3 from '@/assets/images/logo_003.webp';
-import logo4 from '@/assets/images/logo_004.webp';
-import logo5 from '@/assets/images/logo_005.webp';
+import logo1 from '@/assets/logo_001.webp';
+import logo2 from '@/assets/logo_002.webp';
+import logo3 from '@/assets/logo_003.webp';
+import logo4 from '@/assets/logo_004.webp';
+import logo5 from '@/assets/logo_005.webp';
 
 // Ref's 
 const ctx = ref(null);

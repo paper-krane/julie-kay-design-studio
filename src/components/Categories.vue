@@ -5,9 +5,9 @@ import { RouterLink } from 'vue-router';
 import { ref, onMounted } from 'vue';
 
 // Images
-import image1 from '@/assets/images/image-asset.jpeg';
-import image2 from '@/assets/images/Julie-Kay-Designs-The-Elan-Studio-96.jpg';
-import image3 from '@/assets/images/Julie+Kay+Design_Ellis_Dining+Room.jpg';
+import image1 from '@/assets/image-asset.jpeg';
+import image2 from '@/assets/Julie-Kay-Designs-The-Elan-Studio-96.jpg';
+import image3 from '@/assets/Julie+Kay+Design_Ellis_Dining+Room.jpg';
 
 // Ref's
 const categoriesContainerRef = ref(null);

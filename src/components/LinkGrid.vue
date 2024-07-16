@@ -5,10 +5,10 @@ import { RouterLink } from 'vue-router';
 import { ref, onMounted } from 'vue';
 
 // Images
-import image1 from '@/assets/images/JulieKayDesigns-1.jpg';
-import image2 from '@/assets/images/Julie+Kay+Design_Ellis_Living+Room+Straight.jpg';
-import image3 from '@/assets/images/Julie+Kay_Clearwater_Living+Dining.jpg';
-import image4 from '@/assets/images/C0336_0004-2.jpg';
+import image1 from '@/assets/JulieKayDesigns-1.jpg';
+import image2 from '@/assets/Julie+Kay+Design_Ellis_Living+Room+Straight.jpg';
+import image3 from '@/assets/Julie+Kay_Clearwater_Living+Dining.jpg';
+import image4 from '@/assets/C0336_0004-2.jpg';
 
 // Ref's 
 const linkGridRef = ref(null);
