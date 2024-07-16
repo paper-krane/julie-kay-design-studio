@@ -8,11 +8,11 @@ import { RouterLink } from 'vue-router';
 import Link from '@/components/Link.vue';
 
 // Images
-import image1 from '@/assets/_b_C0297_0001.jpg';
-import image2 from '@/assets/_b_C0297_0002.jpg';
-import image3 from '@/assets/_b_C0297_0003.jpg';
-import image4 from '@/assets/_b_C0297_0004.jpg';
-import image5 from '@/assets/_b_C0297_0005.jpg';
+import image1 from '@/assets/port-001.jpg';
+import image2 from '@/assets/port-002.jpg';
+import image3 from '@/assets/port-003.jpg';
+import image4 from '@/assets/port-004.jpg';
+import image5 from '@/assets/port-005.jpg';
 
 // Ref's 
 const featuredProductsSectionRef = ref(null);

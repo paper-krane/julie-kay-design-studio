@@ -4,10 +4,10 @@ import { ScrollTrigger } from 'gsap/all';
 import { ref, onMounted } from 'vue';
 
 // Images
-import image1 from '@/assets/_a_C0295_0002.jpg';
-import image2 from '@/assets/_a_C0295_0004.jpg';
-import image3 from '@/assets/_a_C0295_0005.jpg';
-import image4 from '@/assets/_a_C0295_0010.jpg';
+import image1 from '@/assets/ticker-001.jpg';
+import image2 from '@/assets/ticker-002.jpg';
+import image3 from '@/assets/ticker-003.jpg';
+import image4 from '@/assets/ticker-004.jpg';
 
 // Ref's
 const galleryEl = ref(null);
